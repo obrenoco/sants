@@ -23,7 +23,7 @@ function OrphanagesMap() {
         </footer>
       </aside>
 
-      <div />
+      <div>a</div>
 
       <Link to="/" className="create-orphanage">
         <FiPlus size={32} color="#fff" />

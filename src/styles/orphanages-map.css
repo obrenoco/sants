@@ -1,0 +1,19 @@
+#page-map {
+  width: 100vw;
+  height: 100vh;
+
+  position: relative;
+  display:flex;
+}
+
+#page-map aside {
+  width: 400px;
+  background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#page-map aside h2 {
+}

@@ -13,7 +13,6 @@
 
 <div align="center">
   <img src ="https://media.giphy.com/media/IVIvW4Hf4FGiTUU0It/giphy.gif" width="800px"  />
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/nkFtcqd" data-context="false" ><a href="//imgur.com/a/nkFtcqd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 

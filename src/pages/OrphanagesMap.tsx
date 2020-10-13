@@ -16,8 +16,8 @@ function OrphanagesMap() {
         <header>
           <img src={mapMarkerImg} alt="" />
 
-          <h2>Escolha um orfanato no mapa</h2>
-          <p>Muitas crianças estão esperando a sua visita</p>
+          <h2>Escolha um santuário no mapa</h2>
+          <p>Muitos animais estão esperando a sua visita</p>
         </header>
         <footer>
           <strong>Rio de Janeiro</strong>

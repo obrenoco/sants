@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { FiArrowRight } from 'react-icons/fi';
 
-import logoImg from '../images/logo.svg';
+import logoImg from '../images/logo.png';
 
 import '../styles/landing.css';
 
@@ -14,7 +14,7 @@ function Landing() {
 
         <main>
           <h1>Leve felicidade para o mundo</h1>
-          <p>Visite orfanatos e mude o dia de muitas crianças.</p>
+          <p>Visite santuários e mude o dia de muitos animais.</p>
         </main>
 
         <div className="location">
